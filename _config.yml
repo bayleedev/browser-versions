@@ -5,20 +5,25 @@ browsers:
   chrome:
     name: Google Chrome
     link: "https://www.google.com/intl/en/chrome/"
-    version: 40.0.1
+    version: 40.0.2214.111
+    pageid: 19273670
   firefox:
     name: FireFox
     link: "https://www.mozilla.org/en-US/firefox/new/"
     version: 35.0.1
+    pageid: 2539503
   ie:
     name: Internet Explorer
     link: "http://windows.microsoft.com/en-us/internet-explorer/download-ie"
     version: 11.0.15
+    pageid: 2607368
   opera:
     name: Opera
-    link: "http://en.wikipedia.org/wiki/Opera_%28web_browser%29"
+    link: "http://www.opera.com/download"
     version: 27.0.1689.66
+    pageid: 2602583
   safari:
     name: Safari
-    link: "http://en.wikipedia.org/wiki/Safari_%28web_browser%29"
+    link: "http://support.apple.com/downloads/#safari"
     version: 8.0.3
+    pageid: 2607326

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/blainesch/browser-versions",
   "dependencies": {
-    "js-yaml": "^3.2.5"
+    "js-yaml": "^3.2.5",
+    "request": "^2.53.0"
   }
 }
