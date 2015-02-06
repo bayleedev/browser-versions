@@ -1,0 +1,22 @@
+{
+  "name": "browser-versions",
+  "version": "1.0.0",
+  "description": "JSON/JSONP endpoint for browser versions.",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blainesch/browser-versions.git"
+  },
+  "author": "blainesch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blainesch/browser-versions/issues"
+  },
+  "homepage": "https://github.com/blainesch/browser-versions",
+  "dependencies": {
+    "js-yaml": "^3.2.5"
+  }
+}
