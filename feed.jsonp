@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+callback([
+  {
+    "name": "{{site.browsers.chrome.name}}",
+    "link": "{{site.browsers.chrome.link}}",
+    "version": "{{site.browsers.chrome.version}}"
+  },
+  {
+    "name": "{{site.browsers.firefox.name}}",
+    "link": "{{site.browsers.firefox.link}}",
+    "version": "{{site.browsers.firefox.version}}"
+  },
+  {
+    "name": "{{site.browsers.ie.name}}",
+    "link": "{{site.browsers.ie.link}}",
+    "version": "{{site.browsers.ie.version}}"
+  },
+  {
+    "name": "{{site.browsers.opera.name}}",
+    "link": "{{site.browsers.opera.link}}",
+    "version": "{{site.browsers.opera.version}}"
+  },
+  {
+    "name": "{{site.browsers.safari.name}}",
+    "link": "{{site.browsers.safari.link}}",
+    "version": "{{site.browsers.safari.version}}"
+  }
+])
